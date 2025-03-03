@@ -1,4 +1,4 @@
-#Archieved
+# Archieved
 moved to MageOS lab https://github.com/mage-os-lab/module-admin-assistant
 
 # module-admin-assist
